@@ -1,7 +1,7 @@
 {
   "name": "is-plural",
   "description": "Returns true if the given english word is pluralized.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/jonschlinkert/is-plural",
   "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
   "repository": "jonschlinkert/is-plural",
@@ -26,5 +26,16 @@
     "mocha": "*",
     "should": "*"
   },
-  "keywords": []
+  "keywords": [
+    "english",
+    "grammar",
+    "inflect",
+    "inflection",
+    "language",
+    "plural",
+    "pluralize",
+    "tool",
+    "util",
+    "word"
+  ]
 }
