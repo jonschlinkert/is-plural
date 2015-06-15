@@ -1,0 +1,32 @@
+{
+  "name": "is-plural",
+  "description": "Returns true if the given english word is pluralized.",
+  "repository": "jonschlinkert/is-plural",
+  "license": "MIT",
+  "homepage": "https://github.com/jonschlinkert/is-plural",
+  "authors": [
+    "Jon Schlinkert (https://github.com/jonschlinkert)"
+  ],
+  "main": [
+    "index.js"
+  ],
+  "dependencies": {
+    "pluralize": "^1.1.2"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "keywords": [
+    "english",
+    "grammar",
+    "inflect",
+    "inflection",
+    "language",
+    "plural",
+    "pluralize",
+    "tool",
+    "util",
+    "word"
+  ]
+}

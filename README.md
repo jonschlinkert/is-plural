@@ -12,6 +12,12 @@ Install with [npm](https://www.npmjs.com/)
 $ npm i is-plural --save
 ```
 
+Install with [bower](http://bower.io/)
+
+```sh
+$ bower install is-plural --save
+```
+
 ## Usage
 
 ```js
